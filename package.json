@@ -1,0 +1,19 @@
+{
+  "name": "com.h-f.unity.opc",
+  "version": "3.4.2",
+  "displayName": "OPC UA for Unity",
+  "description": "Provides components for the OPC UA (Unified Architecture)",
+  "unity": "2023.2",
+  "dependencies": {
+    "org.opc-foundation.ua.net-standard": "1.4.371"
+  },
+  "keywords": [
+    "OPC",
+    "OPC UA",
+    "Communication"
+  ],
+  "author": {
+    "name": "H&F",
+    "email": "maeda-shi@h-f.co.jp"
+  }
+}
